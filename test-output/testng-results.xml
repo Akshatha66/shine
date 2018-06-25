@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="10" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[logged in succesful]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Logged out succesfully]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+    <line>
+      <![CDATA[Element clickable]]>
+    </line>
+    <line>
+      <![CDATA[element found]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="486508" started-at="2018-06-25T10:20:12Z" finished-at="2018-06-25T10:28:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="486508" started-at="2018-06-25T10:20:12Z" finished-at="2018-06-25T10:28:18Z">
+      <class name="scripts.Testcase7">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase7@4d50efb8]" name="launchapplication" is-config="true" duration-ms="11028" started-at="2018-06-25T10:21:22Z" finished-at="2018-06-25T10:21:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="updatequal()[pri:0, instance:scripts.Testcase7@4d50efb8]" name="updatequal" duration-ms="29757" started-at="2018-06-25T10:21:33Z" finished-at="2018-06-25T10:22:03Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- updatequal -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase7@4d50efb8]" name="closeapplication" is-config="true" duration-ms="2327" started-at="2018-06-25T10:22:03Z" finished-at="2018-06-25T10:22:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase7 -->
+      <class name="scripts.Testcase6">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase6@467aecef]" name="launchapplication" is-config="true" duration-ms="12895" started-at="2018-06-25T10:20:12Z" finished-at="2018-06-25T10:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="updateinfo()[pri:0, instance:scripts.Testcase6@467aecef]" name="updateinfo" duration-ms="55337" started-at="2018-06-25T10:20:24Z" finished-at="2018-06-25T10:21:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- updateinfo -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase6@467aecef]" name="closeapplication" is-config="true" duration-ms="2103" started-at="2018-06-25T10:21:20Z" finished-at="2018-06-25T10:21:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase6 -->
+      <class name="scripts.Testcase5">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase5@1a8a8f7c]" name="launchapplication" is-config="true" duration-ms="10638" started-at="2018-06-25T10:26:51Z" finished-at="2018-06-25T10:27:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="remove_skill()[pri:0, instance:scripts.Testcase5@1a8a8f7c]" name="remove_skill" duration-ms="27811" started-at="2018-06-25T10:27:02Z" finished-at="2018-06-25T10:27:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- remove_skill -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase5@1a8a8f7c]" name="closeapplication" is-config="true" duration-ms="2100" started-at="2018-06-25T10:27:30Z" finished-at="2018-06-25T10:27:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase5 -->
+      <class name="scripts.Testcase4">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase4@51e2adc7]" name="launchapplication" is-config="true" duration-ms="9585" started-at="2018-06-25T10:25:57Z" finished-at="2018-06-25T10:26:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="uploadskill()[pri:0, instance:scripts.Testcase4@51e2adc7]" name="uploadskill" duration-ms="42716" started-at="2018-06-25T10:26:06Z" finished-at="2018-06-25T10:26:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- uploadskill -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase4@51e2adc7]" name="closeapplication" is-config="true" duration-ms="2341" started-at="2018-06-25T10:26:49Z" finished-at="2018-06-25T10:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase4 -->
+      <class name="scripts.Testcase3">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase3@6f195bc3]" name="launchapplication" is-config="true" duration-ms="9875" started-at="2018-06-25T10:25:26Z" finished-at="2018-06-25T10:25:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="login()[pri:0, instance:scripts.Testcase3@6f195bc3]" name="login" duration-ms="20938" started-at="2018-06-25T10:25:36Z" finished-at="2018-06-25T10:25:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[logged in succesful]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Logged out succesfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase3@6f195bc3]" name="closeapplication" is-config="true" duration-ms="140" started-at="2018-06-25T10:25:57Z" finished-at="2018-06-25T10:25:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase3 -->
+      <class name="scripts.Testcase2">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase2@7a187f14]" name="launchapplication" is-config="true" duration-ms="23542" started-at="2018-06-25T10:24:51Z" finished-at="2018-06-25T10:25:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="forgotpass()[pri:0, instance:scripts.Testcase2@7a187f14]" name="forgotpass" duration-ms="8953" started-at="2018-06-25T10:25:14Z" finished-at="2018-06-25T10:25:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpass -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase2@7a187f14]" name="closeapplication" is-config="true" duration-ms="2339" started-at="2018-06-25T10:25:23Z" finished-at="2018-06-25T10:25:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase2 -->
+      <class name="scripts.Testcase1">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase1@2353b3e6]" name="launchapplication" is-config="true" duration-ms="9237" started-at="2018-06-25T10:27:32Z" finished-at="2018-06-25T10:27:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="ThroughLinked()[pri:0, instance:scripts.Testcase1@2353b3e6]" name="ThroughLinked" duration-ms="34780" started-at="2018-06-25T10:27:41Z" finished-at="2018-06-25T10:28:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ThroughLinked -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase1@2353b3e6]" name="closeapplication" is-config="true" duration-ms="2095" started-at="2018-06-25T10:28:16Z" finished-at="2018-06-25T10:28:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase1 -->
+      <class name="scripts.Testcase9">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase9@307f6b8c]" name="launchapplication" is-config="true" duration-ms="10707" started-at="2018-06-25T10:23:56Z" finished-at="2018-06-25T10:24:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="FAIL" signature="adcertification()[pri:0, instance:scripts.Testcase9@307f6b8c]" name="adcertification" duration-ms="41765" started-at="2018-06-25T10:24:07Z" finished-at="2018-06-25T10:24:49Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"id","selector":"id_add_new_certification"}
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T15:15:08.936Z'
+System info: host: 'DESKTOP-6G7JL2O', ip: '192.168.43.95', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\DELL\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.87, webStorageEnabled: true}
+Session ID: ff46c4980276ebdab8ab78a83850bd6d
+*** Element info: {Using=id, value=id_add_new_certification}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_add_new_certification"}
+  (Session info: chrome=67.0.3396.87)
+  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T15:15:08.936Z'
+System info: host: 'DESKTOP-6G7JL2O', ip: '192.168.43.95', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_60'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.40.565498 (ea082db3280dd6..., userDataDir: C:\Users\DELL\AppData\Local...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 67.0.3396.87, webStorageEnabled: true}
+Session ID: ff46c4980276ebdab8ab78a83850bd6d
+*** Element info: {Using=id, value=id_add_new_certification}
+at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+at java.lang.reflect.Constructor.newInstance(Unknown Source)
+at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:543)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:317)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:363)
+at org.openqa.selenium.By$ById.findElement(By.java:188)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:309)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+at com.sun.proxy.$Proxy9.click(Unknown Source)
+at pom.ProfilePage.addnewcert(ProfilePage.java:214)
+at scripts.Testcase9.adcertification(Testcase9.java:32)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- adcertification -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase9@307f6b8c]" name="closeapplication" is-config="true" duration-ms="2328" started-at="2018-06-25T10:24:49Z" finished-at="2018-06-25T10:24:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase9 -->
+      <class name="scripts.Testcase8">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testcase8@7e2d773b]" name="launchapplication" is-config="true" duration-ms="8839" started-at="2018-06-25T10:22:05Z" finished-at="2018-06-25T10:22:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="uploadresume()[pri:0, instance:scripts.Testcase8@7e2d773b]" name="uploadresume" duration-ms="39639" started-at="2018-06-25T10:22:14Z" finished-at="2018-06-25T10:22:53Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- uploadresume -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testcase8@7e2d773b]" name="closeapplication" is-config="true" duration-ms="2145" started-at="2018-06-25T10:22:53Z" finished-at="2018-06-25T10:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testcase8 -->
+      <class name="scripts.Testscript10">
+        <test-method status="PASS" signature="launchapplication()[pri:0, instance:scripts.Testscript10@2173f6d9]" name="launchapplication" is-config="true" duration-ms="9950" started-at="2018-06-25T10:22:56Z" finished-at="2018-06-25T10:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapplication -->
+        <test-method status="PASS" signature="CreateAlert()[pri:0, instance:scripts.Testscript10@2173f6d9]" name="CreateAlert" duration-ms="48196" started-at="2018-06-25T10:23:06Z" finished-at="2018-06-25T10:23:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+            <line>
+              <![CDATA[Element clickable]]>
+            </line>
+            <line>
+              <![CDATA[element found]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateAlert -->
+        <test-method status="PASS" signature="closeapplication()[pri:0, instance:scripts.Testscript10@2173f6d9]" name="closeapplication" is-config="true" duration-ms="2341" started-at="2018-06-25T10:23:54Z" finished-at="2018-06-25T10:23:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplication -->
+      </class> <!-- scripts.Testscript10 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
